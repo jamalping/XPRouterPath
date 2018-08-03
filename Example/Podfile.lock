@@ -1,0 +1,16 @@
+PODS:
+  - XPRouterPath (0.1.0)
+
+DEPENDENCIES:
+  - XPRouterPath (from `../`)
+
+EXTERNAL SOURCES:
+  XPRouterPath:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XPRouterPath: ac50146f5c6eccea0dee2e1c4473c5c87a4ad318
+
+PODFILE CHECKSUM: b79e15a4a43a564fd5eabbe2a43c1eb2f008f6a9
+
+COCOAPODS: 1.5.3

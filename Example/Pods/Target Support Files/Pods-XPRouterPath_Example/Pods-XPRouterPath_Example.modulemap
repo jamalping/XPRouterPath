@@ -1,0 +1,6 @@
+framework module Pods_XPRouterPath_Example {
+  umbrella header "Pods-XPRouterPath_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
