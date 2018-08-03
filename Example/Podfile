@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XPRouterPath_Example' do
+  pod 'XPRouterPath', :path => '../'
+
+  target 'XPRouterPath_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
